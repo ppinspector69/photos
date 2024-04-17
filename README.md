@@ -28,7 +28,7 @@
 ![Image Description](photos/DSC00499-lr.jpg)
 ![Image Description](photos/DSC00522-lr.jpg)
 ![Image Description](photos/DSC00611-lr.jpg)
-<img src="photos/DSC08299lr.jpg" width="60">
+<img src="photos/DSC08299lr.jpg" width="20">
 <img src="photos/DSC08367lr.jpg" width="60">
 <img src="photos/DSC08430lr.jpg" width="60">
 <img src="photos/DSC08430lr.jpg" width="60">
