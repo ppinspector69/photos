@@ -28,3 +28,4 @@
 ![Image Description](photos/DSC00499-lr.jpg)
 ![Image Description](photos/DSC00522-lr.jpg)
 ![Image Description](photos/DSC00611-lr.jpg)
+<img src="photos/DSC00220-lr.jpg" width="60">
